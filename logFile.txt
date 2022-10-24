@@ -1,0 +1,5 @@
+2022-10-24T18:40:24.068943 ERROR test-logger error message
+2022-10-24T18:40:24.069939800 WARN test-logger warn message
+2022-10-24T18:40:24.069939800 INFO test-logger info message
+2022-10-24T18:40:24.069939800 DEBUG test-logger debug message
+2022-10-24T18:40:24.069939800 TRACE test-logger trace message
